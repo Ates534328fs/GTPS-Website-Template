@@ -7,14 +7,17 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
-    server_description: "Your server Description",
+    server_name: "WildPS",
+    server_description: "Wild PS Best",
     owner: [
         "Owner Server#0000",
         "Owner Server#0000"
     ],
-    discord_invite_link: "Your permanent discord invite link",
-    ip_address: "Your server ip address",
-    host_for_android: "Your host link for android device"
+    discord_invite_link: "discord.gg/wildps"
+    ip_address: "51.107.184.61"
+
+
+
+host_for_android: "Your host link for android device"
 }
 

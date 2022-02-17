@@ -7,10 +7,10 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
-    server_description: "Your server Description",
+    server_name: "WildPS",
+    server_description: "WİLDPS Best ",
     owner: [
-        "Owner Server#0000",
+        "Owner King ",
         "Owner Server#0000"
     ],
     discord_invite_link: "Your permanent discord invite link",
